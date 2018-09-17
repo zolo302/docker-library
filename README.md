@@ -2,7 +2,7 @@
 * 公司：中国电信云公司
 * 职业：openstack研发
 * 要求：有openstack研发经验，能对openstack组件做二次开发，或者有志从事云计算开发事业的大牛高手。
-* 薪资：20k-40k
+* 薪资：20k-50k
 * 邮箱：yangjf@chinatelecom.cn
 
 ## docker-library
